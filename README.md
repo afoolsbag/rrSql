@@ -11,6 +11,10 @@ Structured Query Language
   [*SQL:1989*](https://iso.org/standard/16662.html),
   [*SQL:1987*](https://iso.org/standard/16661.html)
 
+## 参考
+
+*   [*PostgreSQL 官方中文文档*](http://www.postgres.cn/v2/document)
+
 ## 风格
 
 [“SQL Style Guide”](https://www.sqlstyle.guide). *Simon Holywell*.
